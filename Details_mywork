@@ -1,0 +1,7 @@
+A C program pythagoras.c contains a method to print all the triplets that satisfies the Pythagoras Theorem .
+A C program file_pythagoras.c provides the dataset formed using File Management in C .
+Both the programs contain a clock() function which is used to count a running time in order to find the intractability .
+A dataset pythagoras.txt contains the set of Pythaogorean Triplets.
+A dataset plot.txt is formed to find a variation of number of tripets with the Input size .
+A C program plot3d_pythagoras.c contains the method to form a dataset of Perpendicular , Base and the Area of a right-angled triangle .
+In this repository , Octave programs forms a visualized output that tells the variation of number of Pythagorean Triplets with the increase in the Input Size . After a certain time ( can be determined using clock() function ) , the C Program file_pythagoras.c becomes intractable problem or NP - Problem with respect to Intel i3 7th Gen Processor .
